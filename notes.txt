@@ -1,3 +1,4 @@
 ligne 1
-ligne 2 modifiée sur main
+ligne 2 modifiée sur main et conflict
 ligne 3
+
